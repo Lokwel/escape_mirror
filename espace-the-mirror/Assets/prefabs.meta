@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< master
 guid: c4a3767ece18e446ea4339022aae559a
 folderAsset: yes
 timeCreated: 1501061353
+=======
+guid: 43f956c63711f4f61a42be260305a658
+folderAsset: yes
+timeCreated: 1501059292
+>>>>>>> Add Folder - Prefabs
 licenseType: Free
 DefaultImporter:
   userData: 
